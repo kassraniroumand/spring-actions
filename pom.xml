@@ -15,7 +15,7 @@
     <name>demo24</name>
     <description>demo24</description>
     <properties>
-        <java.version>21</java.version>
+        <java.version>17</java.version>
     </properties>
     <dependencies>
         <dependency>
